@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Kromołowski</h1>
 <h3 align="center">A passionate mobile app developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kromczetto&label=Profile%20views&color=0e75b6&style=flat" alt="kromczetto" /> </p>
-
 - 🔭 I’m currently working on [SpaceManager](https://github.com/Kromczetto/SpaceManager)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Flutter**
