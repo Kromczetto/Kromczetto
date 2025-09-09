@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Kromołowski</h1>
 <h3 align="center">A passionate mobile app developer.</h3>
 
-- 🔭 I’m currently working on [Travel Diary](https://github.com/Kromczetto/TravelDiary)
+- 🔭 I’m currently working on [Habit Track](https://github.com/Kromczetto/Habit-Track)
 
-- 🌱 I’m currently learning **Swift, SwiftUI, Flutter**
+- 🌱 I’m currently learning **Swift, SwiftUI, TCA, Flutter**
 
 <p align="left">
 </p>
