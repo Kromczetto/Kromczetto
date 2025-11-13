@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Habit Track](https://github.com/Kromczetto/Habit-Track)
 
-- 🌱 I’m currently learning **Swift, SwiftUI, TCA, Flutter**
+- 🌱 I’m currently learning **Flutter, React Native, TCA**
 
 <p align="left">
 </p>
