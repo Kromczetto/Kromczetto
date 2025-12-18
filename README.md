@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Kromołowski</h1>
 <h3 align="center">A passionate mobile app developer.</h3>
 
-- 🔭 I’m currently working on [Habit Track](https://github.com/Kromczetto/Habit-Track)
+- 🔭 I’m currently working on [Habit Track](https://github.com/Kromczetto/Habit-Track) and [Maze solver simulation](https://github.com/Kromczetto/Maze-solver-simulation)
 - 🌱 I’m currently learning **Flutter, React Native, TCA**
 
 <p align="left"></p>
