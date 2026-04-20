@@ -8,7 +8,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
+<p align="center" background-color:#eff5f3;>
   <a href="https://developer.apple.com/ios/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"
          style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px; border:1px solid #30363d;" />
