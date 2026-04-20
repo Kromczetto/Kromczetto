@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://developer.apple.com/ios/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" style="background-color:#FFFFFF; padding:6px; border-radius:8px; margin:4px;" />
 </a>
 <a href="https://developer.apple.com/swift/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px;" />
