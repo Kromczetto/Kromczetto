@@ -10,9 +10,8 @@
 
 ---
 
-<table align="center">
-<tr>
-<td style="background-color:#0d1117; padding:15px; border-radius:12px;">
+<p align="center">
+
 
 <p align="center">
 <a href="https://developer.apple.com/ios/">
@@ -62,9 +61,7 @@
 </a>
 </p>
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
