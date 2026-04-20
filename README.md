@@ -12,7 +12,7 @@
 
 <table align="center">
 <tr>
-<td style="background-color:#0d1117; padding:15px; border-radius:12px; border:1px solid #30363d;">
+<td style="background-color:#0d1117; padding:15px; border-radius:12px; border:4px solid #30363d;">
 
 <p align="center">
 <a href="https://developer.apple.com/ios/">
