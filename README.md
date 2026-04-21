@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile app developer.</h3>
 
 - 🔭 I’m currently working on [Habit Track](https://github.com/Kromczetto/Habit-Track) and [Maze solver - robot](https://github.com/Kromczetto/Maze-solver-Robot)  
-- 🌱 I’m currently learning **Flutter, React Native, TCA**
+- 🌱 I’m currently learning **React Native, TCA**
 
 ---
 
