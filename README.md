@@ -56,6 +56,12 @@
 <a href="https://www.python.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px;" />
 </a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px;" />
+</a>
+<a href="https://go.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px;" />
+</a>  
 <a href="https://reactjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="background-color:#161b22; padding:6px; border-radius:8px; margin:4px;" />
 </a>
